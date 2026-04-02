@@ -1,0 +1,10 @@
+{
+  "name": "real-estate-tokenization-erc3643",
+  "version": "1.0.0",
+  "description": "ERC-3643 Compliance-based RWA Tokenization",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
